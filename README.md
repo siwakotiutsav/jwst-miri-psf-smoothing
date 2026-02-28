@@ -4,7 +4,11 @@ This repository contains the code I developed to smooth MIRI line files and full
 
 ## Project Status
  
-The **V2** version represents the final, stable implementation.
+The **V2** version represents the final, stable implementation. 
+##There are two styles of implementations:
+1. Weiner deconvolution - more control, manual kernel creation
+2. photutils tools - well-established tool
+
 
 ## Overview
 
